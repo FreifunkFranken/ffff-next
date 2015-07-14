@@ -65,6 +65,12 @@ make menuconfig
 </pre>
 
 Now select the "Target System" and "Target Profile" for your AP model.
+Make sure, that you include one of the freifunk franken packages:
+
+freifunk-franken-basic
+or
+freifunk-franken-debug
+
 
 Finally start the build process
 <pre>
